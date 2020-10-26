@@ -1,5 +1,5 @@
 Criar migration
-npm run typeorm migration:create -n create_orphanages
+npx typeorm migration:create -n create_orphanages
 
 Run migrations
 npm run typeorm migration:run
